@@ -3,9 +3,9 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Books from "./Components/Books";
 import Header from "./Components/Header";
 import Author from "./Components/Author";
-import Homepage from "./Pages/HomePage";
-import BooksCollection from "./Pages/BooksPage";
-import AuthorCollection from "./Pages/AuthorPage";
+import Homepage from "./pages/HomePage"
+import BooksCollection from "./pages/BooksPage";
+import AuthorCollection from "./pages/AuthorPage";
 import Footer from "./Components/Footer";
 import { useState } from "react";
 
